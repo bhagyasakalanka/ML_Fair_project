@@ -1,0 +1,58 @@
+recall: 0.9847477512710208	precission: 0.9641968217499521	f1: 0.9743639353777692
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (12, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: 0.2	learning_rate: constant	activation: tanh
+
+recall: 0.9849432929213923	precission: 0.9642036753445635	f1: 0.9744631456761463
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (10, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: 0.2	learning_rate: adaptive	activation: tanh
+
+
+recall: 0.9878764176769652	precission: 0.9622857142857143	f1: 0.9749131609417213
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (8, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9886585842784513	precission: 0.9641495041952708	f1: 0.9762502413593357
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9884630426280798	precission: 0.961941008563273	f1: 0.9750216992959784
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 4	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9886585842784513	precission: 0.9641495041952708	f1: 0.9762502413593357
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9870942510754791	precission: 0.9640947288006112	f1: 0.9754589371980678
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9876808760265937	precission: 0.9631960335621663	f1: 0.9752848040162194
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9868987094251076	precission: 0.9578667678876447	f1: 0.9721660406433593
+solver: lbfgs	alpha: 0.06	hidden_layer_sizes: (5, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9878764176769652	precission: 0.9600912200684151	f1: 0.9737856592135697
+solver: lbfgs	alpha: 0.08	hidden_layer_sizes: (6, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: logistic
+
+recall: 0.986703167774736	precission: 0.9668518873347385	f1: 0.9766766669892578
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9868987094251076	precission: 0.9644563347983948	f1: 0.9755484681550208
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.986312084473993	precission: 0.963146839793775	f1: 0.9745918268766303
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9868987094251076	precission: 0.9648250812464156	f1: 0.9757370710488159
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9859210011732499	precission: 0.9635008599273839	f1: 0.974582004445733
+solver: lbfgs	alpha: 0.08	hidden_layer_sizes: (8, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9827923347673054	precission: 0.967841324860389	f1: 0.9752595323566509
+solver: lbfgs	alpha: 0.0007	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.9827923347673054	precission: 0.967841324860389	f1: 0.9752595323566509
+solver: lbfgs	alpha: 0.0007	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh
+
+recall: 0.986703167774736	precission: 0.9668518873347385	f1: 0.9766766669892578
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh\power: 1
+
+recall: 0.9847477512710208	precission: 0.9634589630763344	f1: 0.9739870418721593
+solver: lbfgs	alpha: 0.075	hidden_layer_sizes: (7, 2)	random_state: 2	max_iter: 10000000	learning_rate_init: learning_rate_init	learning_rate: learning_rate	activation: tanh\power: 0.2
+

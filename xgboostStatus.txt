@@ -1,0 +1,27 @@
+recall: 0.9902229174814235	precission: 0.9556520098131723	f1: 0.9726303658887929
+min_child_weight: 5	max_depth:6	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators200
+
+recall: 0.9913961673836528	precission: 0.9542631281761716	f1: 0.9724753044979381
+min_child_weight: 3	max_depth:7	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9892452092295659	precission: 0.9554296506137866	f1: 0.9720434239600346
+min_child_weight: 3	max_depth:7	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9880719593273367	precission: 0.9550179550179551	f1: 0.9712638154733302
+min_child_weight: 3	max_depth:7	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9882675009777082	precission: 0.958649468892261	f1: 0.9732331985364915
+min_child_weight: 3	max_depth:7	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9886585842784513	precission: 0.9586651497914297	f1: 0.973430881786677
+min_child_weight: 3	max_depth:7	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9878764176769652	precission: 0.9573621375781695	f1: 0.9723799441824658
+min_child_weight: 2.5	max_depth:8	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators165
+
+recall: 0.9882675009777082	precission: 0.9575596816976127	f1: 0.972671285604311
+min_child_weight: 5	max_depth:8	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators150
+
+recall: 0.9878764176769652	precission: 0.9559129612109745	f1: 0.9716318876815078
+min_child_weight: 5	max_depth:8	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators150
+
