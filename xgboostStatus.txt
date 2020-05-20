@@ -1,0 +1,6 @@
+recall: 0.9880719593273367	precission: 0.9586416239802694	f1: 0.973134328358209
+min_child_weight: 5	max_depth:8	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators150\power: 1
+
+recall: 0.9880719593273367	precission: 0.9586416239802694	f1: 0.973134328358209
+min_child_weight: 5	max_depth:8	gamma: 1.5	colsample_bytree: 0.75	subsample: 0.75	n_estimators150\power: 1
+
